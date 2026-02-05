@@ -1,1 +1,1 @@
-# ai-lab-assignment-2
+# ai-lab-assignment
